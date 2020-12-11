@@ -1,3 +1,9 @@
+This is a Covid-19 Tracker built with React and Firebase.
+
+It shows the total cases, recovered and deaths of worldwide and all countries. 
+
+Newly added (today) cases, recovered, and deaths are also shown in this web app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
